@@ -1,0 +1,12 @@
+<h1> Create your project </h1>
+<%= form_for @user do |t| %>
+  <%= t.label :name %>
+  <%= t.text_field :name %>
+
+  <%= t.fields_for :urls do |u| %>
+    <%= u.label :url %>
+    <%= u.text_field :url %>
+  <% end %>
+
+  <%= t.submit %>
+<% end%>
