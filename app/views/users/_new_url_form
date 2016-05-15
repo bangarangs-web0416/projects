@@ -1,6 +1,6 @@
 <h1> Create your project </h1>
 <%= form_for @user do |t| %>
-  <%= t.label :name %>
+  <%= t.label 'Your Name' %>
   <%= t.text_field :name %>
 
   <%= t.fields_for :urls do |u| %>
