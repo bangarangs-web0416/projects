@@ -1,9 +1,7 @@
-
-
 <%= render 'new_url_form' %>
 
 <% @users.each do |user| %>
-  <b><h5> Name: <%= user.name %></h5></b>
+  <b><h5> Your Name: <%= user.name %></h5></b>
   <% user.urls.each do |url| %>
     <%= link_to url.url, url.url %>
     <br>
