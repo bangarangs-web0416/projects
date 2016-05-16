@@ -4,7 +4,7 @@
 <h3>Steps here outlined:</h3>
 <ol>
 <li><a href="https://github.com/bangarangs-web0416/rangasaurus/issues" target="_blank">Check out the issues page.</a></li>
-<li>Choose an issue.</li>
+<li>Choose/Create an issue.</li>
 <li>Fork to Your Repository and Clone the Project</li>
 <li>Set up the site to run locally.</li>
 <li>Code!</li>
@@ -19,6 +19,7 @@
 
 <p>Have a look at the <a href="https://github.com/bangarangs-web0416/rangasaurus/issues" target="_blank">issues page</a>.</p>
 
+<h2>2. Choose/Create an Issue</h2>
 <h4>Create a New Issue</h4>
 <p>It's not all about the coding. A great first step is actually to fork and clone the project first and think about improvements changes you'd like to make.</p>
 
