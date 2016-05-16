@@ -68,6 +68,6 @@
 
 <pre>$ rubocop</pre>
 
-<p><a href="" target="_blank">Check out this blog post guide on Rubocop</a></p>
+<p><a href="https://medium.com/@laminen/rubocop-the-robot-that-doesnt-turn-on-its-master-a72fae040f17#.x7cly8ufd" target="_blank">Check out this blog post guide on Rubocop</a></p>
 
 <p>Once you’ve opened a pull request a discussion will start around your proposed changes. You may be asked to make some changes to your pull request, if so, add more commits to your branch and push them – they’ll automatically go into the existing pull request.</p>
