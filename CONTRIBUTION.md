@@ -1,19 +1,33 @@
-We're really exited that you're about to contribute to the Rangasaurus open source project. If this is your first time contributing, please continue reading this contribtion guide on how to make the most meaningful and impactful contribution. 
+<h1>How to Contribute!</h1>
+<p>That's awesome, please read through this guide to learn more before you pull your work.</p> 
 
-Steps here outlined:
+<h3>Steps here outlined:</h3>
+<ol>
+<li><a href="https://github.com/bangarangs-web0416/rangasaurus/issues" target="_blank">Check out the issues page.</a></li>
+<li>Choose an issue.</li>
+<li>Fork to Your Repository and Clone the Project</li>
+<li>Set up the site to run locally.</li>
+<li>Code!</li>
+<li>Review your code.</li>
+<li>Push.</li>
+<li>Pull.</li>
+<li>Celebrate!</li>
 
-Create an Issue:
+<h2>1. Check out the Issues Page</h2>
+<h4>Use the tags...</h4>
+<p>We tag our issues, which mean you can either browse through the list or filer it accorindg to your interests. Is styling your forte? Filer by styling! Do you feel like creating something new, check out the emhancement tag!</p>
 
-If you find a bug in the project, have trouble following the documentation or have a question about the project – create an issue! There’s nothing to it and whatever issue you’re having, you’ll quickly realise that you're not likely not the only one having it. This is for all of us to improve as a team and therefore whatever issue you're having will be for the betterment of all of us. 
+<p>Have a look at the <a href="https://github.com/bangarangs-web0416/rangasaurus/issues" target="_blank">issues page</a>.</p>
 
+<h4>Create a New Issue</h4>
+<p>It's not all about the coding. A great first step is actually to fork and clone the project first and think about improvements changes you'd like to make.</p>
 
-Be clear about what your problem is: what was the expected outcome, what happened instead? Detail how someone else can recreate the problem. Link to demos recreating the problem on things like JSFiddle or CodePen.Include system details like what the browser, library or operating system you’re using and its version.
+<p>If that seems like something for you, check out <b>Section 3 Fork to Your Repository and Clone the Project below</b>.</p>
 
-Issues Pro Tips:
+<h4>I Found a Bug!</h4>
+If you find a bug in the project, have trouble following the documentation or have a question about the project – create an issue!
 
-It is also important to check existing issues in case your issue was already raised. Duplicating an issue is slower for both parties so search through open and closed issues to see if what you’re running into has been addressed already.
-
-If you’re able to patch the bug or add the feature yourself – fantastic, make a pull request with the code! Once you’ve submitted a pull request we'll compare your branch to the existing one and decide whether or not to incorporate your changes.
+<a href="" tagret="_blank">Check out the Issues Guide</a>
 
 Pull Request Pro Tips:
 
