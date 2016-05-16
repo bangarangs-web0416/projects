@@ -35,7 +35,21 @@
 
 <p>First, fork us to your repository.</p>
 <p>Next, clone the project to your computer</p>
-<pre> git clone https://github.com/<YOUR GIT USERNAME>/rangasaurus.git</pre>
+<pre>$ git clone https://github.com/<YOUR GIT USERNAME>/rangasaurus.git</pre>
+
+<h2>4. Set up the site to run locally</h2>
+<p>In order to run the project using local host, you need to:</p>
+
+<p>First, run bundle to install all dependencies. You can find these in ./Gemfile</p>
+<pre>$ bundle install</pre>
+
+<p>Next, migrate the database.</p>
+<pre>$ rake db:migrate</pre>
+
+<p>Run a rails server, the default will be localhost:3000</p>
+<pre>$ rails s</pre>
+
+<p>Visit <a href="localhost:3000" target="_blank">localhost:3000</a></p>
 
 Pull Request Pro Tips:
 
