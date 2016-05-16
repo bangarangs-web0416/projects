@@ -1,0 +1,33 @@
+Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. They’re kind of like email—except they can be shared and discussed with the rest of your team. Most software projects have a bug tracker of some kind. GitHub’s tracker is called Issues, and has its own section in every repository.
+
+You can access the repository issues by clicking on the second tab of the navigation bar. 
+
+Once you have clicked on the tab you should see a list of open issues that are related to the project. Those issues usually have tags associated to them that details the speficic of the issue. You can also use the titles to gather more information on whether an issue is of interest or not. 
+
+The issue page directs you to the open issue by default, but you can also access the close issues by clicking on closed tab on the second navigation bar. 
+
+Looking up closed issue is helpful because it gives you a feel for how issues are closed in the repository and the level of communication you must have with the owners. 
+
+See Below for a quick sample to our issue guide:
+
+1. A title and description:
+ Describe what the issue is all about.
+
+2.Color-coded labels:
+  Use pre-defined labels to help you categorize and filter your issues.
+
+3.A milestone acts like a container for issues:
+ This is useful for associating issues with specific features or project phases (e.g. Development Phase or Client run application).
+
+4.Project Assignemt:
+ One assignee is responsible for working on the issue at any given time. This is only used for special cases since we want to open the project to as many people as possible. 
+
+5.Comments:
+ Allows anyone and everyone access to the repository to provide feedback.
+
+ By using @mentions and references inside of Issues, you can notify other GitHub users & teams, and cross-connect issues to each other. These provide a flexible way to get the right people involved to resolve issues effectively, and are easy to learn and use.
+
+ You can also use a hash on the issue ex: #issue1189 to have that issue linked in your comment. 
+
+ This guide in hand you are now on your way to meaningful contributions in this repository and many others.  
+
