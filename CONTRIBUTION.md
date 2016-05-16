@@ -3,14 +3,12 @@
 
 <h3>Steps here outlined:</h3>
 <ol>
-<li><a href="https://github.com/bangarangs-web0416/rangasaurus/issues" target="_blank">Check out the issues page.</a></li>
-<li>Choose/Create an issue.</li>
+<li><a href="https://github.com/bangarangs-web0416/rangasaurus/issues" target="_blank">Check out the issues page</a></li>
+<li>Choose/Create an issue</li>
 <li>Fork to Your Repository and Clone the Project</li>
-<li>Set up the site to run locally.</li>
+<li>Set up the site to run locally</li>
 <li>Code!</li>
-<li>Review your code.</li>
-<li>Push.</li>
-<li>Pull.</li>
+<li>Push & Pull</li>
 <li>Celebrate!</li>
 
 <h2>1. Check out the Issues Page</h2>
@@ -49,7 +47,14 @@
 <p>Run a rails server, the default will be localhost:3000</p>
 <pre>$ rails s</pre>
 
-<p>Visit <a href="http://localhost:3000" target="_blank">localhost:3000</a></p>
+<p>Visit <a href="http://localhost:3000" target="_blank">localhost:3000</a> and begin exploring!</p> 
+
+<h2>5. Code!</h2>
+<p>Ok, so you've explored the site and identified or created an issue. You're ready to code!</p>
+
+<p>To make merging your changes as easy as possible, please make sure you structure your work by the commits you make. Make one commit for each change.</p>
+
+<p>We try to be explicit as possible in our commit messages. A great convention to follow is to write something similar to the title of the issue you chose (assuming the title is nice and descriptive)</p>
 
 Pull Request Pro Tips:
 
