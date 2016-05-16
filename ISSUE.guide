@@ -1,3 +1,12 @@
+Be clear about what your problem is: what was the expected outcome, what happened instead? Detail how someone else can recreate the problem. Link to demos recreating the problem on things like JSFiddle or CodePen.Include system details like what the browser, library or operating system you’re using and its version.
+
+Issues Pro Tips:
+
+It is also important to check existing issues in case your issue was already raised. Duplicating an issue is slower for both parties so search through open and closed issues to see if what you’re running into has been addressed already.
+
+If you’re able to patch the bug or add the feature yourself – fantastic, make a pull request with the code! Once you’ve submitted a pull request we'll compare your branch to the existing one and decide whether or not to incorporate your changes.
+
+
 Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. They’re kind of like email—except they can be shared and discussed with the rest of your team. Most software projects have a bug tracker of some kind. GitHub’s tracker is called Issues, and has its own section in every repository.
 
 You can access the repository issues by clicking on the second tab of the navigation bar. 
