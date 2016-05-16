@@ -26,9 +26,16 @@
 <p>If that seems like something for you, check out <b>Section 3 Fork to Your Repository and Clone the Project below</b>.</p>
 
 <h4>I Found a Bug!</h4>
-If you find a bug in the project, have trouble following the documentation or have a question about the project – create an issue!
+<p>If you find a bug in the project, have trouble following the documentation or have a question about the project – create an issue!</p>
 
 <a href="" tagret="_blank">Check out the Issues Guide</a>
+
+<h2>3. Fork to Your Repository and Clone the Project</h2>
+<p>Before you can contribute new issues or fix existing one, you need to set up a project locally on your machine.</p>
+
+<p>First, fork us to your repository.</p>
+<p>Next, clone the project to your computer</p>
+<pre> git clone https://github.com/<YOUR GIT USERNAME>/rangasaurus.git</pre>
 
 Pull Request Pro Tips:
 
