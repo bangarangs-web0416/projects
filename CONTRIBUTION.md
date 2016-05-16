@@ -49,7 +49,7 @@
 <p>Run a rails server, the default will be localhost:3000</p>
 <pre>$ rails s</pre>
 
-<p>Visit <a href="localhost:3000" target="_blank">localhost:3000</a></p>
+<p>Visit <a href="http://localhost:3000" target="_blank">localhost:3000</a></p>
 
 Pull Request Pro Tips:
 
