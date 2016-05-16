@@ -26,6 +26,7 @@ gem 'sass-rails', '>= 3.2'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 gem 'rubocop', require: false
+gem 'unicorn'
 # Use Unicorn as the app server
 # gem 'unicorn'
 
