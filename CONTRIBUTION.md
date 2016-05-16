@@ -52,19 +52,21 @@
 <h2>5. Code!</h2>
 <p>Ok, so you've explored the site and identified or created an issue. You're ready to code!</p>
 
+<h4>One Issue at a Time</h4>
 <p>To make merging your changes as easy as possible, please make sure you structure your work by the commits you make. Make one commit for each change.</p>
 
+<h4>Write Explicit Commit Messages</h4>
 <p>We try to be explicit as possible in our commit messages. A great convention to follow is to write something similar to the title of the issue you chose (assuming the title is nice and descriptive)</p>
 
-Pull Request Pro Tips:
+<h2>Push & Pull</h2>
+<p>Before you push and pull your changes, please make sure your changes don’t break the existing project. We are utilizing the power of numbers here, a small but accurate contribution is worth x10 more than sloppy and massive changes.</p>
 
-Fork the repository and clone it locally. It is recommended that you connect your local to the original  repository by creating a branch or adding it as remote. Pull in changes from the repository often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely. 
+<h4>Rubocop</h4>
+<p>In this project, we implement rubocop conventions in our code.</p>
 
-Be clear about what problem is and the the steps you took to make your changes.It’s best to test. Run your changes against any existing tests if they exist and create new ones when needed.
+<p>Rubo cop is a ruby gem that reviews your code and identifies code smells like weirdly named vaiables, indentation msitakes, trailing whitespacing and more! It is included in the gemfile so if you ran bundle install correctly, you can run rubocop from the project's root folder.</p>
 
-Whether tests exist or not, make sure your changes don’t break the existing project.
-Include screenshots of the before and after if your changes include differences in HTML/CSS. Drag and drop the images into the body of your pull request. Contribute in the style of the project to the best of your abilities. This may mean using indents, semi colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future. We encourage you to get creative in order to easily and effectively communicate the problem. 
+<pre>$ rubocop</pre>
 
-Open Pull Requests:
 
 Once you’ve opened a pull request a discussion will start around your proposed changes. You may be asked to make some changes to your pull request, if so, add more commits to your branch and push them – they’ll automatically go into the existing pull request. If all is well and your pull request as been incorportated celebrate!! You have once again contributed to an open source project. 
