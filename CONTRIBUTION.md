@@ -58,7 +58,7 @@
 <h4>Write Explicit Commit Messages</h4>
 <p>We try to be explicit as possible in our commit messages. A great convention to follow is to write something similar to the title of the issue you chose (assuming the title is nice and descriptive)</p>
 
-<h2>Push & Pull</h2>
+<h2>6. Push & Pull</h2>
 <p>Before you push and pull your changes, please make sure your changes don’t break the existing project. We are utilizing the power of numbers here, a small but accurate contribution is worth x10 more than sloppy and massive changes.</p>
 
 <h4>Rubocop</h4>
@@ -68,5 +68,6 @@
 
 <pre>$ rubocop</pre>
 
+<p><a href="" target="_blank">Check out this blog post guide on Rubocop</a></p>
 
-Once you’ve opened a pull request a discussion will start around your proposed changes. You may be asked to make some changes to your pull request, if so, add more commits to your branch and push them – they’ll automatically go into the existing pull request. If all is well and your pull request as been incorportated celebrate!! You have once again contributed to an open source project. 
+<p>Once you’ve opened a pull request a discussion will start around your proposed changes. You may be asked to make some changes to your pull request, if so, add more commits to your branch and push them – they’ll automatically go into the existing pull request.</p>
