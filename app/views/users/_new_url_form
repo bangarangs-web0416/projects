@@ -1,11 +1,11 @@
 <h1> Create your project </h1>
 <%= form_for @user do |t| %>
   <%= t.label 'Your Name' %>
-  <%= t.text_field :name %>
+  <%= t.text_field :name, placeholder: 'Bette Davis' %>
 
   <%= t.fields_for :urls do |u| %>
     <%= u.label :url %>
-    <%= u.text_field :url %>
+    <%= u.text_field :url, placeholder: 'https://github.com/bangarangs-web0416' %>
   <% end %>
 
   <%= t.submit %>
