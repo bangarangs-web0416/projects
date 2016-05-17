@@ -13,7 +13,7 @@
 
 <h2>1. Check out the Issues Page</h2>
 <h4>Use the tags...</h4>
-<p>We tag our issues, which mean you can either browse through the list or filer it accorindg to your interests. Is styling your forte? Filer by styling! Do you feel like creating something new, check out the emhancement tag!</p>
+<p>We tag our issues, which mean you can either browse through the list or filer it accorindg to your interests. Is styling your forte? Filter by styling! Do you feel like creating something new, check out the emhancement tag!</p>
 
 <p>Have a look at the <a href="https://github.com/bangarangs-web0416/rangasaurus/issues" target="_blank">issues page</a>.</p>
 
